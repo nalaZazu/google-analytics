@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       {/* final-result streamid in pink pather*/}
-
+      {/* // here i givien the id which is unique identify of every webiste */}
       <Script
         async
         strategy="afterInteractive"
