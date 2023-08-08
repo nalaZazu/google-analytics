@@ -13,9 +13,11 @@ export default function Home() {
       </Head>
       <main>
         <h1>Final  Google analytics demo Result</h1>
+        <p>this is final result gather</p>
         <Link href="/about">
         about
         </Link>
+        <br/>
         <Link href="/contact">
         Contact
         </Link>
